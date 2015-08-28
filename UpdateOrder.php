@@ -7,4 +7,5 @@ foreach($_POST['order'] as $key => $val){
 	//Use MySQL Query to update sorting field from here
 }
 print_r($data);
+//commit from local branch to github
 ?>
